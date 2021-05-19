@@ -1,0 +1,12 @@
+C:\dev\Agendei\Agendei.Dominio\bin\Debug\net5.0\Agendei.Dominio.deps.json
+C:\dev\Agendei\Agendei.Dominio\bin\Debug\net5.0\Agendei.Dominio.dll
+C:\dev\Agendei\Agendei.Dominio\bin\Debug\net5.0\ref\Agendei.Dominio.dll
+C:\dev\Agendei\Agendei.Dominio\bin\Debug\net5.0\Agendei.Dominio.pdb
+C:\dev\Agendei\Agendei.Dominio\obj\Debug\net5.0\Agendei.Dominio.csprojAssemblyReference.cache
+C:\dev\Agendei\Agendei.Dominio\obj\Debug\net5.0\Agendei.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Agendei\Agendei.Dominio\obj\Debug\net5.0\Agendei.Dominio.AssemblyInfoInputs.cache
+C:\dev\Agendei\Agendei.Dominio\obj\Debug\net5.0\Agendei.Dominio.AssemblyInfo.cs
+C:\dev\Agendei\Agendei.Dominio\obj\Debug\net5.0\Agendei.Dominio.csproj.CoreCompileInputs.cache
+C:\dev\Agendei\Agendei.Dominio\obj\Debug\net5.0\Agendei.Dominio.dll
+C:\dev\Agendei\Agendei.Dominio\obj\Debug\net5.0\ref\Agendei.Dominio.dll
+C:\dev\Agendei\Agendei.Dominio\obj\Debug\net5.0\Agendei.Dominio.pdb
